@@ -60,7 +60,7 @@ A basic Simulink model was created using a Step input connected to a Transfer Fu
 .
 ├── README.md
 ├── report.pdf
-├── model.slx
+├── Model andf Output in Screenshot two files
 
 
 ## Future Scope
